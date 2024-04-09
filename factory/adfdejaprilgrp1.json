@@ -1,0 +1,9 @@
+{
+	"name": "adfdejaprilgrp1",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c940092d-3bf5-4485-b122-1b5f272bc6f3",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
